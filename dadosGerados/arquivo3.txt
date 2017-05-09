@@ -1,0 +1,1 @@
+RA  |Nome |Disciplina|Nota|Catalogo#157692|Antonio Alberto Pereira Junior|Interface Humano Computador|10|2014#155553|Giovana Lodde Girardi|Banco de dados I|9|2014#155183|Douglas Correa de Araujo|Inteligencia Artificial|8|2014#

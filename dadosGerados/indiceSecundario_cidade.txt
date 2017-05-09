@@ -1,0 +1,11 @@
+Bahia                    01547          
+Belo Horizonte           78950          
+Campinas                 02359          
+Campo Alegre             56410          
+Curitiba                 45698          
+Limeira                  59874          
+Maringa                  63589          
+Porto Alegre             79560          
+Sao Paulo                13689          
+Ubatuba                  12335          
+Uberlandia               96532          

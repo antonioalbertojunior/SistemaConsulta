@@ -1,0 +1,1 @@
+identificador|nome |cidade|estado|idade#02359|Josildo|Campinas|SP|53#59874|Maria|Limeira|SP|45#13689|Mariana|Sao Paulo|SP|21#01547|Ricardo|Bahia|BH|23#63589|Roberto|Maringa|PR|32#45698|Eduardo|Curitiba|PR|12#79560|Sara Lima|Porto Alegre|RS|15#78950|Pedro|Belo Horizonte|MG|26#96532|Patricia|Uberlandia|MG|30#56410|Denise|Campo Alegre|MS|49#12335|Fabio|Ubatuba|SP|24#
